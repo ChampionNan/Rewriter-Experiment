@@ -1,0 +1,1 @@
+select R.a, T.d from R, S, T where R.b = S.b AND S.c = T.c
